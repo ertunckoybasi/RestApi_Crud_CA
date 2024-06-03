@@ -1,0 +1,6 @@
+@RestApi_Crud_CA.WebAPI_HostAddress = http://localhost:5193
+
+GET {{RestApi_Crud_CA.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
